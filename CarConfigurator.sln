@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarConfigurator", "CarConfigurator.csproj", "{BCA60A21-C95C-98EE-C3B4-4F5853F47CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarConfigurator.Editor", "CarConfigurator.Editor.csproj", "{7BD51512-EF2A-BACE-A4F1-9EA6E5EA2E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA60A21-C95C-98EE-C3B4-4F5853F47CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA60A21-C95C-98EE-C3B4-4F5853F47CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA60A21-C95C-98EE-C3B4-4F5853F47CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA60A21-C95C-98EE-C3B4-4F5853F47CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD51512-EF2A-BACE-A4F1-9EA6E5EA2E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD51512-EF2A-BACE-A4F1-9EA6E5EA2E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD51512-EF2A-BACE-A4F1-9EA6E5EA2E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD51512-EF2A-BACE-A4F1-9EA6E5EA2E24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
